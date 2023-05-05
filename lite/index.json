@@ -1,0 +1,113 @@
+{
+  "baseUri": "https://raw.githubusercontent.com/thipeto/Nostaljogo/main/lite/",
+  "platformList": [
+    {
+      "filename": "Atari2600.json",
+      "platformName": "Atari 2600",
+      "platformShortname": "atari2600",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "CPS1.json",
+      "platformName": "CP System I",
+      "platformShortname": "cps1",
+      "revisionNumber": 2
+    },
+    {
+      "filename": "CPS2.json",
+      "platformName": "CP System II",
+      "platformShortname": "cps2",
+      "revisionNumber": 2
+    },
+    {
+      "filename": "CPS3.json",
+      "platformName": "CP System III",
+      "platformShortname": "cps3",
+      "revisionNumber": 2
+    },
+    {
+      "filename": "GameBoy.json",
+      "platformName": "Game Boy",
+      "platformShortname": "gb",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "GameBoyAdvance.json",
+      "platformName": "Game Boy Advance",
+      "platformShortname": "gba",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "GameBoyColor.json",
+      "platformName": "Game Boy Color",
+      "platformShortname": "gbc",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "MAME.json",
+      "platformName": "Arcade (MAME)",
+      "platformShortname": "mame",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "NeoGeo.json",
+      "platformName": "Neo Geo",
+      "platformShortname": "neogeo",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "Nintendo64.json",
+      "platformName": "Nintendo 64",
+      "platformShortname": "n64",
+      "revisionNumber": 9
+    },
+    {
+      "filename": "NintendoDS.json",
+      "platformName": "Nintendo DS",
+      "platformShortname": "nds",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "NintendoEntertainmentSystem.json",
+      "platformName": "Nintendo Entertainment System",
+      "platformShortname": "nes",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "PlayStationPortable.json",
+      "platformName": "PlayStation Portable",
+      "platformShortname": "psp",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "SegaGameGear.json",
+      "platformName": "Sega Game Gear",
+      "platformShortname": "gamegear",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "SegaGenesis.json",
+      "platformName": "Sega Genesis",
+      "platformShortname": "genesis",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "SegaMasterSystem.json",
+      "platformName": "Sega Master System",
+      "platformShortname": "master",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "SonyPlayStation.json",
+      "platformName": "Sony PlayStation",
+      "platformShortname": "psx",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "SuperNintendoEntertainmentSystem.json",
+      "platformName": "Super Nintendo Entertainment System",
+      "platformShortname": "snes",
+      "revisionNumber": 7
+    }
+  ]
+}
