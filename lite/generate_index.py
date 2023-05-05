@@ -22,7 +22,7 @@ except Exception:
     pass
 
 index = {
-    "baseUri": "https://raw.githubusercontent.com/thipeto/Nostaljogo/main/lite/",
+    "baseUri": "https://raw.githubusercontent.com/thipeto/nostaljogo_db/master/lite/",
     "platformList": []
 }
 for f in files:

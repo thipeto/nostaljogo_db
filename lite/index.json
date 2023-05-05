@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/thipeto/Nostaljogo/main/lite/",
+  "baseUri": "https://raw.githubusercontent.com/thipeto/nostaljogo_db/master/lite/",
   "platformList": [
     {
       "filename": "Atari2600.json",
