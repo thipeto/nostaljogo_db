@@ -2,6 +2,12 @@
   "baseUri": "https://raw.githubusercontent.com/thipeto/nostaljogo_db/master/lite/",
   "platformList": [
     {
+      "filename": "MAME.json",
+      "platformName": "Arcade (MAME)",
+      "platformShortname": "mame",
+      "revisionNumber": 3
+    },
+    {
       "filename": "Atari2600.json",
       "platformName": "Atari 2600",
       "platformShortname": "atari2600",
@@ -44,12 +50,6 @@
       "revisionNumber": 6
     },
     {
-      "filename": "MAME.json",
-      "platformName": "Arcade (MAME)",
-      "platformShortname": "mame",
-      "revisionNumber": 3
-    },
-    {
       "filename": "NeoGeo.json",
       "platformName": "Neo Geo",
       "platformShortname": "neogeo",
@@ -78,12 +78,6 @@
       "platformName": "PlayStation Portable",
       "platformShortname": "psp",
       "revisionNumber": 5
-    },
-    {
-      "filename": "SegaGameGear.json",
-      "platformName": "Sega Game Gear",
-      "platformShortname": "gamegear",
-      "revisionNumber": 6
     },
     {
       "filename": "SegaGenesis.json",
