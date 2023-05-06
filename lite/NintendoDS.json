@@ -42,8 +42,6 @@
             "killPackageProcessesWarning": false,
             "extra": ""
         },
-
-
         {
             "name": "nds - RetroArch 64 - melonds",
             "description": "Supported extensions: nds.",
