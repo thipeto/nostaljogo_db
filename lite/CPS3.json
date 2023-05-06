@@ -23,15 +23,6 @@
     },
     "playerList": [
         {
-            "name": "cps3 - NEO.EMU",
-            "description": "Supported extensions: zip.",
-            "acceptedFilenameRegex": "^(.*)\\.(?:zip)$",
-            "amStartArguments": "-n com.explusalpha.neoemu/com.imagine.BaseActivity\n  -d {file.path}\n",
-            "killPackageProcesses": false,
-            "killPackageProcessesWarning": false,
-            "extra": ""
-        },
-        {
             "name": "cps3 - RetroArch 64 - fbneo",
             "description": "Supported extensions: 7z, zip.",
             "acceptedFilenameRegex": "^(.*)\\.(?:7z|zip)$",
@@ -67,8 +58,6 @@
             "killPackageProcessesWarning": true,
             "extra": ""
         },
-
-
         {
             "name": "cps3 - RetroArch 32 - fbneo",
             "description": "Supported extensions: 7z, zip.",
