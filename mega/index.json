@@ -74,18 +74,6 @@
       "revisionNumber": 2
     },
     {
-      "filename": "CannonballOutRunEngine.json",
-      "platformName": "Cannonball OutRun Engine",
-      "platformShortname": "cannonball",
-      "revisionNumber": 1
-    },
-    {
-      "filename": "CaveStoryGameEngine.json",
-      "platformName": "Cave Story Game Engine",
-      "platformShortname": "cavestory",
-      "revisionNumber": 1
-    },
-    {
       "filename": "Chip8.json",
       "platformName": "CHIP-8",
       "platformShortname": "chip8",
@@ -110,18 +98,6 @@
       "revisionNumber": 5
     },
     {
-      "filename": "DOOMGameEngine.json",
-      "platformName": "DOOM Game Engine",
-      "platformShortname": "doom",
-      "revisionNumber": 1
-    },
-    {
-      "filename": "DOS.json",
-      "platformName": "DOS",
-      "platformShortname": "dos",
-      "revisionNumber": 2
-    },
-    {
       "filename": "Dreamcast.json",
       "platformName": "Dreamcast",
       "platformShortname": "dreamcast",
@@ -144,12 +120,6 @@
       "platformName": "Arcade (FinalBurn Neo)",
       "platformShortname": "fbneo",
       "revisionNumber": 2
-    },
-    {
-      "filename": "FlashbackGameEngine.json",
-      "platformName": "Flashback Game Engine",
-      "platformShortname": "flashback",
-      "revisionNumber": 1
     },
     {
       "filename": "Game&Watch.json",
@@ -186,18 +156,6 @@
       "platformName": "Intellivision",
       "platformShortname": "intellivision",
       "revisionNumber": 2
-    },
-    {
-      "filename": "JavaMe.json",
-      "platformName": "Java Me",
-      "platformShortname": "j2me",
-      "revisionNumber": 1
-    },
-    {
-      "filename": "LowResNX.json",
-      "platformName": "LowRes NX",
-      "platformShortname": "lowresnx",
-      "revisionNumber": 1
     },
     {
       "filename": "MAME.json",
@@ -324,30 +282,6 @@
       "platformName": "PlayStation Portable",
       "platformShortname": "psp",
       "revisionNumber": 5
-    },
-    {
-      "filename": "PokemonMini.json",
-      "platformName": "Pokemon Mini",
-      "platformShortname": "pokemini",
-      "revisionNumber": 2
-    },
-    {
-      "filename": "Quake.json",
-      "platformName": "Quake Game Engine",
-      "platformShortname": "quake",
-      "revisionNumber": 1
-    },
-    {
-      "filename": "QuakeII.json",
-      "platformName": "Quake II Game Engine",
-      "platformShortname": "quake2",
-      "revisionNumber": 1
-    },
-    {
-      "filename": "RPGMaker.json",
-      "platformName": "RPG Maker",
-      "platformShortname": "rpgmaker",
-      "revisionNumber": 1
     },
     {
       "filename": "ScummVM.json",
