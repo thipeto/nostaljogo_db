@@ -116,12 +116,6 @@
       "revisionNumber": 3
     },
     {
-      "filename": "FinalBurnNeo.json",
-      "platformName": "Arcade (FinalBurn Neo)",
-      "platformShortname": "fbneo",
-      "revisionNumber": 2
-    },
-    {
       "filename": "Game&Watch.json",
       "platformName": "Game & Watch",
       "platformShortname": "gw",
