@@ -170,12 +170,6 @@
       "revisionNumber": 5
     },
     {
-      "filename": "NeoGeoCD.json",
-      "platformName": "Neo Geo CD",
-      "platformShortname": "neogeocd",
-      "revisionNumber": 4
-    },
-    {
       "filename": "NeoGeoPocket.json",
       "platformName": "NeoGeo Pocket",
       "platformShortname": "ngp",
