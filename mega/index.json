@@ -380,12 +380,6 @@
       "revisionNumber": 2
     },
     {
-      "filename": "WASM4.json",
-      "platformName": "WASM-4",
-      "platformShortname": "wasm4",
-      "revisionNumber": 1
-    },
-    {
       "filename": "WataraSupervision.json",
       "platformName": "Watara Supervision",
       "platformShortname": "supervision",
