@@ -74,12 +74,6 @@
       "revisionNumber": 2
     },
     {
-      "filename": "Chip8.json",
-      "platformName": "CHIP-8",
-      "platformShortname": "chip8",
-      "revisionNumber": 2
-    },
-    {
       "filename": "ColecoVision.json",
       "platformName": "ColecoVision",
       "platformShortname": "coleco",
@@ -209,12 +203,6 @@
       "filename": "NintendoSatellaview.json",
       "platformName": "Nintendo Satellaview",
       "platformShortname": "satellaview",
-      "revisionNumber": 1
-    },
-    {
-      "filename": "NintendoSwitch.json",
-      "platformName": "Nintendo Switch",
-      "platformShortname": "switch",
       "revisionNumber": 1
     },
     {
