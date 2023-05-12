@@ -380,12 +380,6 @@
       "revisionNumber": 2
     },
     {
-      "filename": "WataraSupervision.json",
-      "platformName": "Watara Supervision",
-      "platformShortname": "supervision",
-      "revisionNumber": 3
-    },
-    {
       "filename": "WonderSwan.json",
       "platformName": "WonderSwan",
       "platformShortname": "ws",
@@ -395,12 +389,6 @@
       "filename": "WonderSwanColor.json",
       "platformName": "WonderSwan Color",
       "platformShortname": "wsc",
-      "revisionNumber": 2
-    },
-    {
-      "filename": "ZX81.json",
-      "platformName": "ZX 81",
-      "platformShortname": "zx81",
       "revisionNumber": 2
     },
     {
